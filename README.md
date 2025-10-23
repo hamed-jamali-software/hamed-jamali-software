@@ -48,7 +48,8 @@ Let’s connect to collaborate on AI-driven products, software design, or cuttin
 
 
 ---
-##💡 Core Technologies:
+
+## 💡 Core Technologies:
 Python | Flask | Django | FastAPI | PyTorch | TensorFlow | scikit-learn | NLP | Computer Vision | Data Analysis | Pandas | NumPy | RESTful API Design | Clean Code | SOLID | TDD | Unit Testing | Software Architecture | MLOps | Docker | Git | CI/CD | Cloud (AWS, GCP) | SQL | Cybersecurity | Generative AI | LLMs | Raspberry Pi | Edge Computing
 
 ---
@@ -72,3 +73,15 @@ Python | Flask | Django | FastAPI | PyTorch | TensorFlow | scikit-learn | NLP | 
 
 - **🧩 Databases** 
 <p align="center"> <a href="https://github.com/hamed-jamali-software/hamed-jamali-software"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> <a href="https://github.com/hamed-jamali-software/hamed-jamali-software"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a> <a href="https://github.com/hamed-jamali-software/hamed-jamali-software"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a> <a href="https://github.com/hamed-jamali-software/hamed-jamali-software"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></a> </p>
+
+
+---
+
+## 🗿 Stats 
+<a href="https://github.com/hamed-jamali-software">
+  <img
+    alt="Hamed Jamali's Top Languages"
+    src="https://hamed-readme-stats.vercel.app/api/top-langs/?username=hamed-jamali-software&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook"
+    height="192px"
+  />
+</a>
