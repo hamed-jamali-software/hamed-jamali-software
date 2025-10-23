@@ -79,11 +79,8 @@ Python | Flask | Django | FastAPI | PyTorch | TensorFlow | scikit-learn | NLP | 
 ## 🌐 Let's Connect!  
 
 <p align="center">
-  <a href="https://amirmahdiabtl.github.io/"><img alt="Linkedin" src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/amirmahdi-abootalebi/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:amir.abootalebi2001@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/AmirmahdiAbtl"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Bookworm98"></a>
-  <a rel="me" href="https://www.kaggle.com/amirmahdiabbootalebi"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hamedjamali/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:hamed.jamali.software@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 ## 🌐 Let's Connect!  
 <p align="center">
